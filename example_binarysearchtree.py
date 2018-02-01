@@ -1,3 +1,4 @@
+#This code is taken from a YouTube tutorial, it is not original.
 class Node:
     def __init__(self, val):
         self.value = val
